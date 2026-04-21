@@ -28,3 +28,9 @@ public class NewMonoBehaviourScript : MonoBehaviour
         
     }
 }
+
+fileFormatVersion: 2
+guid: 66c5b043f91423743986485e82588b7e
+
+fileFormatVersion: 2
+guid: 4f9c06ec52b2fc544ae3c5b13ed76060
